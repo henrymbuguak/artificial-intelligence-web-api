@@ -1,4 +1,4 @@
-# Artificial Intelligence web api
+# Artificial intelligence (AI) text translator
 
 Creating a web application with artificial intelligence (AI) doesn't need to involve a lot of code or creating services from scratch. Let's imagine we wanted to create a website that can translate text for the user.
 
